@@ -1,3 +1,5 @@
+#Author: Rami Ejleh
+#Description: Training a model to classifiy images
 import argparse
 import torch
 from torch import nn

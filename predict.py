@@ -1,3 +1,5 @@
+#Author: Rami Ejleh
+#Description: Using a checkpoint model to predict image classes
 import argparse
 import torch
 from torch import nn

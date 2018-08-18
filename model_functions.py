@@ -1,3 +1,5 @@
+#Author: Rami Ejleh
+#Description: Helper function used to create, train, validate, save and load a model and use it to make prediction
 import matplotlib.pyplot as plt
 import torch
 import numpy as np

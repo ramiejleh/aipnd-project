@@ -1,3 +1,5 @@
+#Author: Rami Ejleh
+#Description: Helper function used to prepare for training a model and predicting image classes
 import matplotlib.pyplot as plt
 import torch
 import numpy as np
